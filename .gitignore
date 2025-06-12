@@ -1,0 +1,5 @@
+# Ignore environment variables
+.env
+
+# Ignore Gradio runtime/cache data (certificates, settings, etc.)
+.gradio/
