@@ -1,3 +1,14 @@
+---
+title: NextRead
+emoji: 📖
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 5.33.1
+app_file: app.py
+pinned: false
+---
+
 # 📚 NextRead — AI-Powered Semantic Book Recommender
 
 > *“The right book at the right time can change a life. NextRead helps you find it.”*
